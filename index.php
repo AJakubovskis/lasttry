@@ -65,6 +65,7 @@
             </ul>
           </li>
           <li><a href="#section2">Contacts</a></li>
+          <li><a href="sazina.php">Registration</a></li>
         </ul>
       </div>
     </div>
