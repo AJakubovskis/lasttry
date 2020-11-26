@@ -66,7 +66,7 @@ error_reporting(E_ALL);
   <div class="row">
   <div class="col-sm-4"></div>
     <div class="col-sm-4">
-    <h3>Piesakies!</h3>
+    <h3>Join!</h3>
 		<form>
 		  <div class="form-group">
       <form action="sazina" method="post">
@@ -121,7 +121,7 @@ error_reporting(E_ALL);
   <div class="row">
     <div class="col-sm-4"> </div> 
     <div class="col-sm-4">
-      <h3>Piesakies jaunumiem</h3>
+      <h3>Join to see new</h3>
         <form>
           <div class="form-group">
             <label for="name">Vārds:</label>
@@ -141,7 +141,7 @@ error_reporting(E_ALL);
               echo "<b>E-pasts:</b>{$_POST['news']}<br/>";
           }
           ?>
-          <h3>Reģistrēties</h3>
+          <h3>Register</h3>
           <div class="form-group">
               <form action="forma" method="post">
               <div class="form-group">
